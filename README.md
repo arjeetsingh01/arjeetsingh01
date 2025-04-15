@@ -2,7 +2,6 @@
 - 👀 I’m interested in **Web Development**, especially Frontend technologies.
 - 🌱 I’m currently pursuing **MCA** at **Chandigarh University** (Final Semester).
 - 💞️ I’m looking to collaborate on **Open Source Projects**, **Web Apps**, and anything exciting in the dev space.
-- 📫 How to reach me: [your email] | [LinkedIn/GitHub/Twitter links]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding by customizing my own portfolio site — and loved every moment of it!
 
